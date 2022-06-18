@@ -1,0 +1,46 @@
+  .container {
+
+      background-color: whitesmoke;
+      display: flex;
+      justify-content: space-around;
+  }
+
+  #preview {
+      margin-left: 200px;
+      font-size: larger;
+  }
+
+  .style {
+      padding-top: 50px;
+  }
+
+  .box {
+      margin: 95px 4px;
+      border-style: outset;
+      padding: 80px;
+      font-size: larger;
+  }
+
+  /* ol {
+    line-height: 40px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+} */
+  .container .box {
+      height: 600px;
+      width: 500px;
+      background-color: rgb(192, 197, 206);
+  }
+
+  .text li {
+      border: 2px solid;
+      font-style: oblique;
+      height: 50px;
+     
+  }
+
+  .box ol {
+      border: 2px solid;
+      font-style: oblique;
+  }
